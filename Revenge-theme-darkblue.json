@@ -1,0 +1,91 @@
+{
+  "name": "Hollow Lamplight 🏮 Animated Theme",
+  "description": "A deep indigo-night theme with pale icy lamplight glow, inspired by the ghost under the streetlamp",
+  "version": "1.1",
+  "authors": [
+    {
+      "name": "⁷𝐌 𝐑𝐢𝐬𝐤",
+      "id": "1113130615630471290"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_RIPPLE": [
+      "#202a45"
+    ],
+    "CONTEXT_MENU_BACKDROP_BACKGROUND": [
+      "#cfe0ff66"
+    ],
+    "CHAT_BACKGROUND": [
+      "#0a0e1c"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#171f33"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#05070f"
+    ],
+    "BACKGROUND_MENTIONED": [
+      "#202a45"
+    ],
+    "FORUM_POST_TAG_BACKGROUND": [
+      "#171f33"
+    ],
+    "BACKGROUND_MENTIONED_HOVER": [
+      "#202a45"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#cfe0ffCC"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#cfe0ff00"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "transparent"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#0a0e1c00"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#171f33"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#0a0e1c"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
+      "#171f33"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#FFFFFF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#171f33"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#05070f"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#0a0e1c"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#05070f"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#202a45"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#cfe0ff25"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#202a4518"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#0a0e1c35"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#0a0e1c"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#05070f"
+    ]
+  }
+}
